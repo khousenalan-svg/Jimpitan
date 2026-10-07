@@ -1,0 +1,6 @@
+{
+  "name": "Jimpitan RT",
+  "description": "Aplikasi pencatatan jimpitan ronda warga RT dengan scan barcode, pembukuan kas real-time, laporan bulanan otomatis, ekspor PDF/Excel, dan kelola pengeluaran berverifikasi khusus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
